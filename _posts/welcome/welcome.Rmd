@@ -1,12 +1,12 @@
 ---
-title: "Welcome to Vito's Blog"
+title: "vi'log"
 description: |
   Welcome to our new blog, Vito's Blog. We hope you enjoy 
   reading what we have to say!
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
+  - name: Vito 
+    url: https://google.com
+    affiliation: Google
     affiliation_url: https://example.com/spacelysprokets
 date: 06-08-2023
 output:

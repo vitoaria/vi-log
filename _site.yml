@@ -1,7 +1,7 @@
-name: "."
-title: "Vito's Blog"
+name: "vi'log"
+title: "vi'log"
 description: |
-  Vito's Blog
+  A blog by Vito.
 output_dir: "docs"
 navbar:
   right:
